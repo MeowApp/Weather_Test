@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Test</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to acquire local weather condition. </string>
+    <string name="location_permission_denied">This App requires location permission to acquire local weather condition. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Weather Test\'.</string>
+    <string name="permission_not_granted">Location permission not granted.</string>
+</resources>
